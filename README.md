@@ -7,7 +7,7 @@ This gender neutral icon is an attempt to show a human without giving the impres
 
 ## Why use this icon?
 
-Icons of humans are used for illustrations, games, toilet signs, leaflets, etc. When you search for an icon or a pictogram of a human, it often gives the impression of being either male (with a straight body shape) or female (with a skirt). But in many cases you just might not want to make a statement about gender at all.
+Icons of humans are used for illustrations, games, toilet signs, leaflets, etc. When you search for an icon or a pictogram of a human, it often gives the impression of being either male (with a straight body shape) or female (with a skirt). But in many cases you just might not want to specify on gender at all.
 
 There already is a pretty common unisex icon. It is the combination of a stereotypical male and female icon split in half. However, this icon conveys a binary view on gender identities.
 
